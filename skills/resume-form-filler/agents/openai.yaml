@@ -1,0 +1,4 @@
+interface:
+  display_name: "专属简历填写助手"
+  short_description: "首次解析 PDF、LaTeX 或 Word，建立本地资料并逐模块填写、核对和保存招聘简历"
+  default_prompt: "使用 $resume-form-filler 填写我已打开的招聘简历页；首次使用先解析我的简历并检查项目依赖。"
